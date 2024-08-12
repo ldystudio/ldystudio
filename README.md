@@ -34,16 +34,4 @@
 
 <h3 align="left">Statistics</h3>
 
-<div align="center"> 
-    <div align="center">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ldystudio&theme=2077" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ldystudio&theme=2077" height="180em" />
-    </div>
-    <div align="center">
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ldystudio&theme=2077" height="180em" />
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ldystudio&theme=2077" height="180em" />
-    </div>
-    <div align="center">
-    	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ldystudio&theme=2077" height="180em" />
-    </div>
-</div>
+![snake](./assets/github-contribution-grid-snake.svg)
