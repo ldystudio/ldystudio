@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ldystudio&no-bg=true&no-frame=true&rank=-C&margin-w=15" alt="ldystudio" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ldystudio&no-bg=true&no-frame=true&row=2&margin-w=15" alt="ldystudio" />
     </a>
 </p>
 
@@ -30,11 +30,7 @@
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ldystudio&show_icons=true&locale=en&theme=" alt="ldystudio" />
 </p>
 
-<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ldystudio&theme=" alt="ldystudio" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="left">Statistics</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldystudio/ldystudio/output/github-contribution-grid-snake-dark.svg">
