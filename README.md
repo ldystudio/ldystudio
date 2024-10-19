@@ -1,12 +1,19 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <h1 align="center">Hey 👋, Nice to see you.</h1>
 <h3 align="center">Love digital, love programming</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ldystudio&label=Profile%20views&color=0e75b6&style=flat" alt="ldystudio" />
 </p>
+<p align="center">
+    <img src='https://raw.githubusercontent.com/ldystudio/ldystudio/refs/heads/main/img/logo.gif' width='200'>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldystudio&no-bg=true&no-frame=true&rank=-C&margin-w=15" alt="ldystudio" /></a> </p>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ldystudio&no-bg=true&no-frame=true&rank=-C&margin-w=15" alt="ldystudio" />
+    </a>
+</p>
 
 <h3 align="left">Languages:</h3>
 
